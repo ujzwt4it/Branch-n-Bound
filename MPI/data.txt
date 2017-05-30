@@ -1,0 +1,65 @@
+as
+1
+16 Time taken : 0.645374.
+8 Time taken : 0.927455.
+4 Time taken : 3.056870.
+2 Time taken : 6.353755.
+1 Time taken : 4.687394
+
+2
+1 Time taken : 66.294450.
+2 Time taken : 77.900321.
+4 Time taken : 25.005769.
+8 Time taken : 14.131912.
+16 Time taken : 8.501617.
+
+tsp
+1
+16 Time taken : 4.221064.
+8 Time taken : 16.429751.
+4 Time taken : 134.664193.
+2 Time taken : 83.316193.
+1 Time taken : 19.349226.
+
+2
+16 Time taken : 12.536092.
+8 Time taken : 41.539288.
+4 Time taken : 230.322064.
+2 Time taken : 142.322999.
+1 Time taken : 69.785061.
+
+3
+16  Time taken : 0.742453.
+8 Time taken : 1.871397.
+4 Time taken : 19.907706.
+2 Time taken : 10.333555.
+1 Time taken : 2.041884.
+
+
+OpenMP
+as
+1
+2 Time taken : 2.222401.
+4 Time taken : 1.433750.
+8 
+
+2
+2 Time taken : 22.444256.
+4 Time taken : 14.287126.
+8 
+
+tsp
+1
+2 Time taken : 15.987961.
+4 Time taken : 10.831995.
+8
+
+2
+2 Time taken : 49.650657.
+4 Time taken : 37.065627.
+8
+
+3
+2 Time taken : 1.716444.
+4 Time taken : 1.324849.
+8
